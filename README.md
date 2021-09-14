@@ -8,4 +8,4 @@ In this case study our purpose is to assess the existence of Pro-Trump and Anti-
 + *Network Creation & Community Detection* folder contains code to define the users debate network as well as detect communities.
 + *img* folder contains all the output figures.
 ## Dataset
-Under maintenance. To be available soon.
+For each topic and each semester, in the *data* folder you can find a representative sample edgelist (_from,to,weight_) and nodelist (_id,mean_score,leaning_) used in the current paper.
